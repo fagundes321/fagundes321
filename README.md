@@ -9,9 +9,10 @@
 
 <div> 
  
-  <a href = "mailto:victorfagundes123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:victorfagundes123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D32F2F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-fagundes-324070259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href="https://www.seusite.com" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-000?&logo=google-chrome&logoColor=white&labelColor=&style=for-the-badge"/></a> 
+<a href="https://www.seusite.com" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23B0BEC5?&logo=google-chrome&logoColor=black&labelColor=&style=for-the-badge"/></a>
+
 <!--   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 </div>
 
