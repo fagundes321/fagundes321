@@ -21,7 +21,7 @@
 ## 🚀 Tecnologias e Ferramentas  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,next,html,css,python,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,next,html,css,docker,linux" />
 </div>
 
 ## 📊 Estatísticas  
