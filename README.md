@@ -28,10 +28,18 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fagundes321&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fagundes321&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fagundes321&include_all_commits=true&count_private=true&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+
+  <!-- Estatísticas de commits -->
+  <img src="https://github-readme-stats.vercel.app/api?username=fagundes321&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
+
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fagundes321&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
+
+  <!-- Gráfico de atividade -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fagundes321&include_all_commits=true&count_private=true&radius=16&theme=github-dark&area=true&hide_border=true&hide_title=true" height="300" alt="Activity Graph" />
+
 </div>
+
 
 ###
 
