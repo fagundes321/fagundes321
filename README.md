@@ -37,4 +37,4 @@
 
 ---
 
-💡 *"A tecnologia move o mundo."* – Steve Jobs  
+💡 *"A tecnologia move o mundo."*  – Steve Jobs  
