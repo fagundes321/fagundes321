@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="200" />
 
 💻 Programador apaixonado por tecnologia e inovação.  
-🚀 Atualmente desenvolvendo projetos pessoais e estudando Next.js.  
+🚀 Atualmente desenvolvendo projetos pessoais e estudando PHP.  
 🎯 Buscando crescer como desenvolvedor e aprimorar minhas habilidades em frontend e backend.  
 📚 Sempre aprendendo algo novo!  
 
