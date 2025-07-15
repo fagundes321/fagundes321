@@ -40,3 +40,6 @@
 ---
 
 💡 *"A tecnologia move o mundo."*  – Steve Jobs  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fagundes321.fagundes321&"  />
+</div>
