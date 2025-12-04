@@ -28,10 +28,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fagundes321&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&theme=github_dark&cache_seconds=3600"
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=fagundes321&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&theme=github_dark&cache_seconds=3600"
     height="150"
-     />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fagundes321&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+     /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fagundes321&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fagundes321&include_all_commits=true&count_private=true&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
